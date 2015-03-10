@@ -1,0 +1,27 @@
+{
+	"id": "GawdScape",
+	"time": "2015-03-09T23:23:00-04:00",
+	"version": "2.0",
+	"gawdmodVersion": "2.0",
+	"minecraftVersion": "1.8",
+	"mainClass": "net.minecraft.launchwrapper.Launch",
+	"minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type} --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker",
+	"libraries": [
+		{
+			"name": "com.mumfrey:liteloader:1.8",
+			"url": "https://raw.githubusercontent.com/GawdScape/GawdStorage/Libraries/"
+		},
+		{
+			"name": "net.minecraft:launchwrapper:1.11"
+		},
+		{
+			"name": "org.ow2.asm:asm-all:5.0.3"
+		}
+	],
+	"mods": [
+		{
+			"name": "MamiyaOtaru:VoxelMap:1.5.3",
+			"type": "litemod"
+		}
+	]
+}
