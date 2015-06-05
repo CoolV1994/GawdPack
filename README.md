@@ -1,6 +1,6 @@
-# Vanilla v1.8.6
+# Vanilla v1.8.7
 Vanilla Minecraft
 
-Minecraft 1.8.6
+Minecraft 1.8.7
 -
 - GawdMod 2.0
