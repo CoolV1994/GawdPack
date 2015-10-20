@@ -1,11 +1,11 @@
 {
 	"id": "GawdScape",
-	"time": "2015-03-09T23:23:00-04:00",
-	"version": "2.0",
-	"gawdmodVersion": "2.0",
+	"time": "2015-10-19T23:10:00-04:00",
+	"version": "2.0.1",
 	"minecraftVersion": "1.8",
+  	"texperienceVersion": "1.0",
 	"mainClass": "net.minecraft.launchwrapper.Launch",
-	"minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type} --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker",
+	"minecraftArguments": "--tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker --username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type}",
 	"libraries": [
 		{
 			"name": "com.mumfrey:liteloader:1.8",
