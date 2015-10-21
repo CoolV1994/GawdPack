@@ -1,7 +1,7 @@
 {
 	"id": "Vanilla",
 	"time": "2015-07-27T12:31:28+02:00",
-	"version": "1.8.8",
-	"gawdmodVersion": "2.0",
-	"minecraftVersion": "1.8.8"
+	"version": "1.8.8.1",
+	"minecraftVersion": "1.8.8",
+	"texperienceVersion": "1.0"
 }
