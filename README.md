@@ -1,4 +1,4 @@
-# Forge 11.14.3.1450
+# Forge
 Empty mod pack with Forge Mod Loader
 
 Minecraft 1.8
