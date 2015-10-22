@@ -1,7 +1,7 @@
-# Snapshot 15w42a
+# Snapshot
 Latest Vanilla Snapshot
 
-Minecraft 15w42a
+Minecraft 15w43a
 -
 
 ## Instructions
