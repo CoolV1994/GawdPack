@@ -9,7 +9,8 @@
 	"libraries": [
 		{
 		  	"name": "net.minecraftforge:forge:1.8-11.14.3.1450",
-		  	"url": "http://files.minecraftforge.net/maven/"
+		  	"url": "http://files.minecraftforge.net/maven/",
+		  	"classifier": "universal"
 		},
 		{
 		  	"name": "io.netty:netty-all:4.0.15.Final"
