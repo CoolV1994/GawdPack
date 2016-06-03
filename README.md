@@ -1,7 +1,7 @@
 # Vanilla
 Vanilla Minecraft
 
-Minecraft 1.8.8
+Minecraft 1.9.4
 -
 
 Mods
