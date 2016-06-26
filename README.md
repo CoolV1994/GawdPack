@@ -1,7 +1,7 @@
 # GawdScape
 The GawdScape Mod Pack
 
-Minecraft 1.10
+Minecraft 1.10.2
 -
 
 Mods
